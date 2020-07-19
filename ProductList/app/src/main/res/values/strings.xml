@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ProductList</string>
+    <string name="by_price_low_to_high">By price low to high</string>
+    <string name="by_name_a_to_z">By name A to Z</string>
+    <string name="by_category">By category</string>
+    <string name="add_product">Add Product</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_price">Enter Price</string>
+    <string name="save">Save</string>
+    <string name="category_name">Category Name:</string>
+    <string name="please_enter_product_name">please enter product name</string>
+    <string name="please_enter_category">please select category</string>
+    <string name="please_enter_price">please enter price</string>
+    <string name="sucessfully_added">successfully added</string>
+
+
+    <string-array name="spinner">
+        <item>Select Category</item>
+        <item>Clothes</item>
+        <item>Electronics</item>
+        <item>Beauty</item>
+
+    </string-array>
+</resources>
